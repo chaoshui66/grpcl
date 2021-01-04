@@ -1,0 +1,6 @@
+# dir
+venv
+
+# file
+*.pyc
+*.pyo
